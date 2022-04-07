@@ -4,15 +4,15 @@ body{
 }
 .sign-up-form{
     width: 360px;
-    height: 620px;
+    height: 520px;
     margin: auto;
-    background-color: white;
+    background-color: rgb(68, 197, 201);
     border-radius: 3px;
 }
 h1{
     text-align: center;
     padding-top: 15;
-}
+}g
 form{
     width: 300px;
     margin-left: 20px;
